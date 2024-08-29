@@ -1,2 +1,4 @@
-BERIKUT 1 IDE YANG SAYA BERIKAN UNTUK bot.py milik Arthur
-1.Arena Tic-tac-toe bisa ditambah sedikit lebih dengan menambahkannya pada list dan merubahnya di for x dan for y menjadi angka yang sesuai
+BERIKUT 2 IDE YANG SAYA BERIKAN UNTUK bot.py milik Arthur
+1.Arena Tic-tac-toe dibuat lebih lebar dengan menambahkannya pada list dan merubahnya di for x dan for y menjadi angka yang sesuai
+2.Arthur mungkin bisa merubah untuk mencapai kemenangan pada X dan O menjadi lebih dari 3 kotak
+3.Mungkin Check vertical dan Check diagonals juga harus diubah sesuai dengan nilai kemenangan yang dinginkan
